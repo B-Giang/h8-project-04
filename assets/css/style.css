@@ -480,7 +480,7 @@ input, textarea, select, button {
 
 .tab__list {
     position: relative;
-    display: flex;
+    display: inline-flex;
     column-gap: 56px;
 }
 
@@ -558,3 +558,5 @@ input, textarea, select, button {
     height: 1.5px;
     opacity: 1;
 }
+
+/*-- Service --*/
